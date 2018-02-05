@@ -1,4 +1,4 @@
-# ZTE ZMAX PRO
+# TWRP FOR THE ZTE ZMAX PRO
 
 The ZTE ZMAX PRO(codenamed _"urd"_) is a mid-range smartphone from ZTE.
 It was released in July,2016.
