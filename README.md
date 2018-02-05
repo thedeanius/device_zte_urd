@@ -15,4 +15,6 @@ MicroSD | Up to 256 GB
 Battery | Li-Ion 3400mAh battery
 Display | 1080 x 1920 pixels, 6 inches (~367 ppi pixel density)
 Camera  | 13 MP, autofocus, LED flash
+
+
 ![ZTE ZMAX PRO](https://imei24.com/img/zte/15_12_38_ZTE_ZMAX_PRO_Front-Back-Side-e1468925686227.png "ZTE ZMAX PRO")
