@@ -1,4 +1,5 @@
 # TWRP FOR THE ZTE ZMAX PRO
+NOTE: This tree was compiled with Omni ROM android-7.1 tree.
 
 The ZTE ZMAX PRO(codenamed _"urd"_) is a mid-range smartphone from ZTE.
 It was released in July,2016.
